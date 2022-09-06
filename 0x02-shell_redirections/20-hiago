@@ -1,5 +1,2 @@
 #!/bin/bash
-tr -d "cC" >> 20-hiago
-echo tr -d cC >> 20-hiago
-echo tr -d cC
 tr -d "cC"

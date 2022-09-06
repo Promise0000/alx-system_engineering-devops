@@ -1,2 +1,1 @@
- a script that prints the result of the addition of 128 
- a script that prints the result of POWER divided by DIVIDE
+a script that displays the result of BREATH to the power LOVE
